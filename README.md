@@ -7,16 +7,16 @@ This repository contains my solutions to the problem book for the **"JavaScript/
 The code is organised by modules, each covering a specific topic or set of tasks:
 
 - **`0-module/`** — introductory tasks.
-- **`1-module/`** — basic JavaScript concepts[reference:2].
-- **`2-module/`** — fundamental programming constructs[reference:3].
-- **`3-module/`** — intermediate topics[reference:4].
-- **`4-module/`** — advanced JavaScript[reference:5].
-- **`5-module/`** — DOM manipulation[reference:6].
-- **`6-module/`** — events and interfaces[reference:7].
-- **`7-module/`** — additional practice[reference:8].
-- **`8-module/`** — complex tasks[reference:9].
-- **`9-module/`** — final project work[reference:10].
-- **`assets/`** — common styles and other static resources[reference:11].
+- **`1-module/`** — basic JavaScript concepts.
+- **`2-module/`** — fundamental programming constructs.
+- **`3-module/`** — intermediate topics.
+- **`4-module/`** — advanced JavaScript.
+- **`5-module/`** — DOM manipulation.
+- **`6-module/`** — events and interfaces.
+- **`7-module/`** — additional practice.
+- **`8-module/`** — complex tasks.
+- **`9-module/`** — final project work.
+- **`assets/`** — common styles and other static resources.
 
 Each module contains practical homework assignments that reinforce the theoretical material.
 
